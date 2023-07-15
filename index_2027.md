@@ -2,7 +2,7 @@
 layout: resume
 title: Anezka Reyes' Resume
 ---
-# Anezka Reyes Nunez
+# Anezka Reyes
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -15,7 +15,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `Expected 2024`
-__Mathematical Sciences with emphasis on Statistics__,Minor in Economics
+__Mathematical Sciences with emphasis on Statistics__,Minor in Economics.
 
 - Brigham Young University-Idaho
 
