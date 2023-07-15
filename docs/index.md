@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Anezka Reyes' Resume
 ---
 # Anezka Reyes
