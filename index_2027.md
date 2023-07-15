@@ -3,7 +3,6 @@ layout: resume
 title: Anezka Reyes' Resume
 ---
 # Anezka Reyes
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="rey20034@byui.edu">datascience@byui.edu</a>
